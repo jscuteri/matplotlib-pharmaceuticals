@@ -1,3 +1,8 @@
-# matplotlib-challenge
-Matplotlib homework folder
-Test Update to readme
+Matplotlib-pharmaceuticals 
+
+Overview of matplotlib
+
+Data
+
+Explanation
+
